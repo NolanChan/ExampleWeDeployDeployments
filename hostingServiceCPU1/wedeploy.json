@@ -1,5 +1,5 @@
 {
-  "id": "hostingServiceCPU1",
-  "cpu": 0.2,
-  "dependencies": ["hostingServiceCPU2"]
+  "id": "insideService",
+  "cpu": 1,
+  "memory": 1024
 }
