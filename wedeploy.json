@@ -1,5 +1,9 @@
 {
-  "id": "outsideService",
-  "cpu": 0.5,
-  "memory": 512
+	"id": "stress",
+	"canAutoscale": true,
+  "cpu": 0.2,
+  "memory": 128,
+  "port": 80,
+  "image": "progrium/stress",
+  "customDomains": ["nolan3.eduardo.io"]
 }
