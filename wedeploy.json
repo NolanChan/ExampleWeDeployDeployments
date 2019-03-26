@@ -1,9 +1,8 @@
 {
-	"id": "stress",
-	"canAutoscale": true,
+	"id": "nginx",
   "cpu": 0.2,
   "memory": 128,
   "port": 80,
-  "image": "progrium/stress",
+  "image": "nginx",
   "customDomains": ["nolan3.eduardo.io"]
 }
