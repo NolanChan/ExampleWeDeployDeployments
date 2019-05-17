@@ -1,5 +1,5 @@
 {
-	"id": "nginx",
+	"id": "hosting",
   "cpu": 0.2,
   "memory": 128,
 	"scale": 2,
