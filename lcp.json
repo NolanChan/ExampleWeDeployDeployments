@@ -1,7 +1,10 @@
 {
 	"id": "hosting",
-  "cpu": 0.2,
-  "memory": 128,
+	"cpu": 0.2,
+	"memory": 128,
 	"scale": 2,
-  "image": "wedeploy/hosting"
+	"image": "wedeploy/hosting",
+	"loadbalancer": {
+		"customDomains": ["example.com"]
+	}
 }
