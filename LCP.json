@@ -3,5 +3,5 @@
 	"cpu": 0.5,
 	"memory": 128,
 	"scale": 2,
-	"image": "liferaycloud/database:3.0.1"
+	"image": "wedeploy/hosting"
 }
